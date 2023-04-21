@@ -1,6 +1,6 @@
-# videoconference
+# Video-Conference
 
-A new Flutter project.
+This is The Video Conferencing App similar to the Zoom.
 
 ## Getting Started
 
